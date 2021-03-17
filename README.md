@@ -13,11 +13,11 @@ Make sure to have python3 installed in your desired terminal
 Server
 
 ```
-python server.py 
+python3 server.py 
 ```
 Client
 ```
-python client.py
+python3 client.py
 ```
 
      
