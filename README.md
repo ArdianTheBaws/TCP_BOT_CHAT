@@ -1,7 +1,4 @@
-# Portfolio1
-
-## Portfolio1 Assigment
-
+# Portfolio1 Assigment
 
 # TCP Chatbot
 This was run in Ubuntu through a VM
