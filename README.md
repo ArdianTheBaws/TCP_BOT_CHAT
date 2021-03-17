@@ -8,6 +8,7 @@ This was run in Ubuntu through a VM
 ## Installation
 
 Make sure to have python3 installed in your desired terminal
+
 For equivalent result use the same tools as listed
 
 ## How to run the bot
