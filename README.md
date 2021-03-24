@@ -19,7 +19,7 @@ python3 server.py
 ```
 Client
 ```
-python3 client.py
+python3 client2.py 127.0.0.1 8888
 ```
 
      
