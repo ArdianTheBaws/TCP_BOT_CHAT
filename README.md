@@ -11,6 +11,10 @@ Make sure to have python3 installed in your desired terminal
 
 For equivalent result use the same tools as listed
 
+* A running VM with Ubuntu installed
+* The files provided
+* Correct command usage
+
 ## How to run the bot
 Server
 
@@ -21,5 +25,6 @@ Client
 ```
 python3 client2.py 127.0.0.1 8888
 ```
+![image](https://user-images.githubusercontent.com/54141216/112392990-a1407200-8cfa-11eb-88d4-b1e70a4f016c.png)
 
      
