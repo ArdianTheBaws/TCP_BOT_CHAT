@@ -8,8 +8,6 @@ clients = []
 names = []
 s.listen()
 
-
-
 def stream(message):
     for c in clients:
         c.send(message)
@@ -27,7 +25,6 @@ def getClient():
         stream(f'{name} has connected to the chat room'.encode('ascii'))
         thread = threading.Thread(target=recvClient, args=(c,))
         thread.start()
-
 
 def recvClient(c):
     while True:
